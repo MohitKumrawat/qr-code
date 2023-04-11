@@ -17,7 +17,7 @@ Built this basic HTML and CSS project.
 
 ### Screenshot
 
-[](./finalss.png)
+[Screenshot of the final build.](./finalss.png)
 
 ### Links
 
